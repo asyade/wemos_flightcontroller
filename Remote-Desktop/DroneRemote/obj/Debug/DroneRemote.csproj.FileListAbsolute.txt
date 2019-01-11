@@ -1,0 +1,10 @@
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\bin\Debug\DroneRemote.exe.config
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\bin\Debug\DroneRemote.exe
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\bin\Debug\DroneRemote.pdb
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\obj\Debug\DroneRemote.csprojAssemblyReference.cache
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\obj\Debug\DroneRemote.Form1.resources
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\obj\Debug\DroneRemote.Properties.Resources.resources
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\obj\Debug\DroneRemote.csproj.GenerateResource.cache
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\obj\Debug\DroneRemote.csproj.CoreCompileInputs.cache
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\obj\Debug\DroneRemote.exe
+C:\Users\acorbeau\source\repos\DroneRemote\DroneRemote\obj\Debug\DroneRemote.pdb
